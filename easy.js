@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var userPick = { id: 19, name: 'Ksenya' };
+console.log('User Pick:', userPick);
+var secondElement = 19;
+console.log('Second Element:', secondElement);
+var newArray = [true, 19, 'twix'];
+console.log('New Array:', newArray);
+var excluded = 'c';
+console.log('Excluded:', excluded);
